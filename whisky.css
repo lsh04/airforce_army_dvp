@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    background-color: lightcyan;
+}
+
+.main{
+    display: flex;
+    justify-content:space-around;
+}
+
+.whisky_image{
+    width: 250px;
+    height: 200px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.header_text{
+    width: 250px;
+}
+#information{
+    width: 250px;
+}
+.price{
+    width: 250px;
+}
+#keywords_text{
+    width: 250px;
+}
+.keywords{
+    display: flex;
+    justify-content: first baseline;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+
+.taste{
+    width: 100px;
+    margin-right: 20px;
+}
+
+.round_image{
+    width: 100px;
+
+}
+
+/*keywords 이미지*/
+.taste_image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+/*keywords 이미지 텍스트*/
+.round_image_text{
+    width: 100px;
+    display: flex;
+    justify-content: center;
+}
+
