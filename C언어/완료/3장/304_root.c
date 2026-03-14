@@ -10,5 +10,4 @@ int main() {
 
     return 0;
 
-    // 오류 확인하기
 }
