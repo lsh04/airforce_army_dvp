@@ -1,0 +1,1 @@
+int rotate_string(char *str, int size); // size는 널 문자를 제외한 문자 개수
